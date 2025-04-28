@@ -14,9 +14,3 @@ O sistema oferece as seguintes funcionalidades:
 - **Extrato**: Exibe o histórico de movimentações da conta, incluindo depósitos e saques, além do saldo atual.
 - **Listar contas**: Exibe todas as contas bancárias e seus respectivos titulares.
 
-## Estrutura do Projeto
-
-O projeto é organizado da seguinte forma:
-
-sistema_bancario/ │ ├── config.py # Armazena as listas de usuários e contas ├── banco.py # Contém as funções relacionadas ao banco (criar usuário, criar conta, depositar, sacar, etc.) ├── main.py # Arquivo principal que gerencia a execução do sistema └── README.md # Este arquivo de documentação
-
